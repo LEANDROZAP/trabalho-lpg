@@ -1,0 +1,25 @@
+ID da sala / tipo da sala / Descrição da Sala / Lotação Máxima
+A1    / sala de aula /  sala de aula pequena com projetor e ar condicionado / 20
+A2    / sala de aula /  sala de aula pequena com projetor e ar condicionado / 20
+A3    / sala de informatica / sala com computadores e ar condicionado / 15
+B1    / sala de aula / sala de aula grande com projetor e ar condicionado  / 45
+B2    / laboratório de matemática / sala especializada com materiais da matemática / 15
+B3    / laboratório de física / sala especializada com materiais da física / 12
+C1    / sala de estudos / sala para estudos em grupo / 10
+C2    / sala de estudos / sala para estudos em grupo / 10
+C3    / sala de estudos / sala para estudos em grupo / 10
+E1    / laboratório de elétrica / sala com equipamentos para engenharia elétrica / 20 
+E2    / laboratório de elétrica / sala com equipamentos para engenharia elétrica / 20
+F1    / sala de aula / sala de aula grande com projetor e ar condicionado  / 50
+F2    / sala de informatica / sala com computadores e ar condicionado / 20
+F3    / sala de informatica / sala com computadores e ar condicionado / 20
+F4    / laboratório de hardware / sala com equipamento de hardware para computação / 20
+L1    / sala de estudos / sala para estudos em grupo / 20
+L2    / sala de estudos / sala para estudos em grupo / 20
+L3    / laboratório de química / sala com equipamentos especializados para química / 15
+K1    / sala de aula / sala de aula normal com projetor e ar condicionado / 30
+K2    / sala de aula / sala de aula normal com projetor e ar condicionado / 30
+K3    / sala de aula / sala de aula normal com projetor e ar condicionado / 30
+K4    / sala de aula / sala de aula normal com projetor e ar condicionado / 30
+I1    / auditório / auditório grande equipado com projetores, ar condicionado e sistema de som / 120
+I2    / auditório / auditório grande equipado com projetores, ar condicionado e sistema de som / 120 
